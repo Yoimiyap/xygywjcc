@@ -49,7 +49,7 @@ html::before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=bg-sj);
+    background-image: url(bg_m.png);
     background-size: cover;
 }
 .box .right {
@@ -116,7 +116,7 @@ html::before {
 }
 @media screen and (orientation: landscape) {
 body {
-    background-image: url('https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=bg-pc');
+    background-image: url('bg.png');
     background-repeat: no-repeat;
     background-size: 100%100%;
     background-attachment: fixed;
@@ -124,7 +124,7 @@ body {
 }
 @media screen and (orientation: portrait) {
 body {
-    background-image: url('https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=bg-sj');
+    background-image: url('bg_m.png');
     background-repeat: no-repeat;
     background-size: 100%100%;
     background-attachment: fixed;
