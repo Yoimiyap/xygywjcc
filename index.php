@@ -88,7 +88,7 @@ body {
 }
 @media screen and (orientation: landscape) {
 body {
-    background-image: url('https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=bg-pc');
+    background-image: url('bg.png');
 }
 .zhuti {
     margin: 5% auto 0;
@@ -102,7 +102,7 @@ body {
 }
 @media screen and (orientation: portrait) {
 body {
-    background-image: url('https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=bg-sj');
+    background-image: url('bg_m.png');
 }
 .zhuti {
     margin: 20% auto 0;
@@ -126,7 +126,7 @@ body {
 </noscript>
 <div class="dinglan"><b>小永高吖的文件存储空间(https://<?php echo($ym) ?>)</b>
 <!-- 最后加五个空格，防止浏览器滚动条遮挡 -->
-<span style="float: right"><a href="1/" target="_blank">b站视频解析</a>&nbsp;&nbsp;&nbsp;<a href="login.php" target="_blank">登&nbsp;录</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<span style="float: right"><a href="login.php" target="_blank">登&nbsp;录</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
 <div class="zhuti">
 <!-- 上传方式1，js提交 -->
 <div id="scui1">
@@ -154,14 +154,13 @@ body {
 </div>
 <!-- 此部分公用 -->
 <h3>请勿上传违反中华人民共和国相关法律的文件，如检查时遇到将立即删除</h3>
-<b>广告：</b><br/><img src="https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=adimg" id="adimg" width="100%" max-width="100%" onclick="window.open('https://xiaoyonggaoya.tbit.top/xygywjcc/?zy=adtz')" alt="广告"><br/>
+<b>广告：</b><br/><img src="ad.png" id="adimg" width="100%" max-width="100%" onclick="window.open('https://blog.xiaoyonggaoya.tbit.top')" alt="广告"><br/>
 </div>
 <div class="dilan">
 Copyright&nbsp;©&nbsp;<span class="copyrighttime">114514</span>&nbsp;by&nbsp;小永高吖&nbsp;
 页面访问量：<span id="fwltj">0</span>
 <!-- 网站备案号，请替换成自己的，没有就直接注释掉 -->
 <!--&nbsp;<a href="https://beian.miit.gov.cn/" target="_blank">替换成你自己的备案号</a>--><br/>
-<a href="https://xiaoyonggaoya.pages.dev/xygywjcc.html" target="_blank">存储空间列表</a>&nbsp;
 <a href="filelist.php" target="_blank">文件列表</a>&nbsp;
 <a href="javascript:location.reload();">刷新此页面</a>&nbsp;
 <a href="sjwjapiwd.php" target="_blank">随机文件api</a>
