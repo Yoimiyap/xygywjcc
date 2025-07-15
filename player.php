@@ -57,7 +57,7 @@ volume: 1,
 playbackSpeed: '0.25,0.5,0.75,1,1.25,1.5,1.75,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,9.5,10',
 lang: 'zh-cn',
 // screenshot: true,
-video: {url: 'f/<?php echo($filename) ?>',pic: 'https://www.xiaoyonggaoya.tbit.top/xygywjcc/?zy=sploading',}, 
+video: {url: 'f/<?php echo($filename) ?>',pic: 'playloading.png',}, 
 contextmenu: [
 {text: '使用本地播放器播放',click: (dialog) => {openplayer.showModal();},},
 {text: '在新标签页打开视频',link: 'f/<?php echo($filename) ?>'},
