@@ -5,8 +5,8 @@ $ym =$_SERVER['HTTP_HOST'];
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="UTF-8">
 <title><?php echo($filename) ?> - 视频播放器 - 小永高吖的文件存储空间(https://<?php echo($ym) ?>)</title>
-<link href="DPlayer.min.css" rel="stylesheet">
-<script src="DPlayer.min.js"></script>
+<link href="player.css" rel="stylesheet">
+<script src="player.js"></script>
 <style type="text/css">
     body,html{width:100%;height:99%;background:#000;padding:0;margin:0;overflow-x:hidden;overflow-y:hidden}
     *{margin:0;border:0;padding:0;text-decoration:none}
