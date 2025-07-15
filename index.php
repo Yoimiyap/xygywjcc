@@ -6,7 +6,7 @@ $ym =$_SERVER['HTTP_HOST'];
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
-<link rel="icon" href="icon.jpg">
+<link rel="icon" href="favicon.ico">
 <title>小永高吖的文件存储空间</title>
 <!-- 主体css -->
 <style>
